@@ -8,6 +8,6 @@
   - Performed DE analysis
   - Developed the integration of DEGs and RNA velocities
 - Kashish Doshi
-  - Performed some EDA
+  - Performed some exploratory data analysis
 - Hadis Kamali Dehghan
   - Helped developing the project idea
