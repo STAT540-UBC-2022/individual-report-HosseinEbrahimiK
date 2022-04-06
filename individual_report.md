@@ -7,7 +7,7 @@
 - Giuliano Cruz
   - Performed DE analysis
   - Developed the integration of DEGs and RNA velocities
-- Kashish Doshi
+- Kashish Doshiq
   - Performed some exploratory data analysis
 - Hadis Kamali Dehghan
   - Helped developing the project idea
@@ -26,8 +26,18 @@ Some of our group members were totally unfamiliar with the concept of RNA-veloci
 
 ## Challenging moments
 
+I could say finding a suitable dataset for our analysis was the most challenging step. We went through multiple studies to see whether they have reported spliced/unspliced counts as well as information about the time points. We were giving up the idea, but we were able to find the closest that was possible. In the end, we could not find any correlation between the RNA-velocity and log2 fold change of expression across genes. Still, however, we were able to identify the downfalls of our analysis and where we could do better to find more significant results.
+
 ## Members of different backgrounds
 
-## Learned lessons
+It was challenging at first because not all members fully understood the idea of the project and the RNA-velocity concept. But it was really valuable to be able to see their opinions on different parts and communicate with them to all have a better understanding of the analysis and its downfalls.
+
+## Lessons learned
+
+As I mentioned, I found good task management in a project in which many people are involved really important. Also, in such a project, I learned that everyone should inform others of the challenges they face - especially when there are multiple backgrounds in the group because they might have a very different take on the problem that might be helpful to consider.
 
 ## Other comments
+
+- A better assessment of the contribution of each individual
+- A better overview of what is expected as the results
+- Requering a work plan for the project (e.g., timeline)
