@@ -1,5 +1,11 @@
 # Individual report
 
+## Peer evaluation
+
+- [Group 2 peer review](https://github.com/STAT540-UBC-2022/Discussion/issues/80#issuecomment-1090899923)
+- [Group 10 peer review](https://github.com/STAT540-UBC-2022/Discussion/issues/73#issue-1193863776)
+
+
 ## Summary of contributions
 
 - Nick Mateyko
